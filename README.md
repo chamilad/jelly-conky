@@ -1,11 +1,12 @@
-###Jelly :sunny: :umbrella: :cloud: :snowflake: :snowman:
+o###Jelly :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
-A theme for [conky](https://github.com/brndnmtthws/conky) version `1.9.x` powered by [OpenWeatherMap](http://openweathermap.org/).
+A theme for [conky](https://github.com/brndnmtthws/conky) powered by [OpenWeatherMap](http://openweathermap.org/).
 
 It displays the **time**, **date**, **current weather**.
 
 ---
 
+* [Compatibility](#compatibility)
 * [Installation](#installation)
 * [API-key](#api-key)
 * [City](#city)
@@ -13,6 +14,14 @@ It displays the **time**, **date**, **current weather**.
 * [Units](#units)
 * [Colors](#colors)
 * [Preview](#preview)
+
+---
+
+####Compatibility:
+
+The latest version of this theme is on the master branch, and it supports conky `1.10.x`.
+
+For older versions, check the available [releases](../../releases).
 
 ---
 
