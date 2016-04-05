@@ -1,4 +1,4 @@
-o###Jelly :sunny: :umbrella: :cloud: :snowflake: :snowman:
+####Jelly :sunny: :umbrella: :cloud: :snowflake: :snowman:
 
 A theme for [conky](https://github.com/brndnmtthws/conky) powered by [OpenWeatherMap](http://openweathermap.org/).
 
