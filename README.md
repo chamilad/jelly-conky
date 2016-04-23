@@ -34,7 +34,7 @@ For older versions, check the available [releases](../../releases).
 apt-get install conky conky-all curl jq
 ```
 
-* Install the [Roboto & Roboto Light](https://www.google.com/fonts/specimen/Roboto) fonts.
+* Install the [Roboto & Roboto Light](https://www.google.com/fonts/specimen/Roboto) fonts (Download pack from [FontSquirrel](https://www.fontsquirrel.com/fonts/roboto)).
 
 * Move the `.jelly-conky-icons` folder into your `~` dir.
 
