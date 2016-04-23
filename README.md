@@ -29,6 +29,11 @@ For older versions, check the available [releases](../../releases).
 
 * Install **conky**, **curl** and **jq**.
 
+####Ubuntu
+```bash
+apt-get install conky conky-all curl jq
+```
+
 * Install the [Roboto & Roboto Light](https://www.google.com/fonts/specimen/Roboto) fonts.
 
 * Move the `.jelly-conky-icons` folder into your `~` dir.
